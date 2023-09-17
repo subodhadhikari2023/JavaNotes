@@ -1,4 +1,4 @@
-1. [Java Basics] (https://github.com/subodhadhikari2023/JavaNotes/tree/main/Java%20Basics)
+1. [Java Basics](https://github.com/subodhadhikari2023/JavaNotes/tree/main/Java%20Basics)
 2. Data types
 3. Scopes of Variables
 4. Type Conversion/Casting
